@@ -1,28 +1,14 @@
 # \# 🦈 Global Shark Attack Analysis
 
-# 
+# ![Images](Images/Shark-Attack-Dashboard.jpeg)
 
-# !\[Shark Banner](Images/shark-banner.jpg)
+---
 
-# 
+# Project Overview
 
-# Power BI dashboard analyzing historical shark attack data to uncover trends, fatality patterns, and geographic hotspots using Power Query, DAX, and interactive visualizations.
+## This project explores global shark attack records to identify attack trends, affected age groups, high risk countries, and shark species responsible for attacks.
 
-# 
-
-# \---
-
-# 
-
-# \# Project Overview
-
-# 
-
-# This project explores global shark attack records to identify attack trends, affected age groups, high risk countries, and shark species responsible for attacks.
-
-# 
-
-# \---
+---
 
 # 
 
