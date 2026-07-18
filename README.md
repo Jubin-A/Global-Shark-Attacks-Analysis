@@ -6,31 +6,28 @@
 
 ## Project Overview
 
-### This project explores global shark attack records to identify attack trends, affected age groups, high risk countries, and shark species responsible for attacks.
+#### This project explores global shark attack records to identify attack trends, affected age groups, high risk countries, and shark species responsible for attacks.
 
 ---
 
 ## Problem
 
-### Understanding historical shark attack patterns can support public awareness, improve beach safety measures, and identify locations with higher attack risks.
+#### Understanding historical shark attack patterns can support public awareness, improve beach safety measures, and identify locations with higher attack risks.
 
 ---
 
 ## Tools Used
 
-# \- Microsoft Power BI
-
-# \- Power Query
-
-# \- DAX
-
-# \- Microsoft Excel
+- Microsoft Power BI
+- Power Query
+- DAX
+- Microsoft Excel
 
 ---
 
 ## Dataset
 
-### Historical global shark attack records containing information on victims, countries, shark species, injuries, activities, and attack outcomes.
+#### Historical global shark attack records containing information on victims, countries, shark species, injuries, activities, and attack outcomes.
 
 ---
 
@@ -50,25 +47,15 @@
 
 ---
 
-# 
+## Data Model
 
-# \# Data Model
+####Star Schema
 
-# 
+- Fact Shark Attack
+- DIM Victim
+- DIM Injury
 
-# Star Schema
-
-# 
-
-# \- Fact Shark Attack
-
-# \- DIM Victim
-
-# \- DIM Injury
-
-# 
-
-# \---
+---
 
 # 
 
