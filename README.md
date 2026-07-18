@@ -1,32 +1,22 @@
-# \# 🦈 Global Shark Attack Analysis
+# 🦈 Global Shark Attack Analysis
 
 # ![Images](Images/Shark-Attack-Dashboard.jpeg)
 
 ---
 
-# Project Overview
+## Project Overview
 
-## This project explores global shark attack records to identify attack trends, affected age groups, high risk countries, and shark species responsible for attacks.
+### This project explores global shark attack records to identify attack trends, affected age groups, high risk countries, and shark species responsible for attacks.
 
 ---
 
-# 
+## Problem
 
-# \# Business Problem
+### Understanding historical shark attack patterns can support public awareness, improve beach safety measures, and identify locations with higher attack risks.
 
-# 
+---
 
-# Understanding historical shark attack patterns can support public awareness, improve beach safety measures, and identify locations with higher attack risks.
-
-# 
-
-# \---
-
-# 
-
-# \# Tools Used
-
-# 
+## Tools Used
 
 # \- Microsoft Power BI
 
@@ -36,43 +26,29 @@
 
 # \- Microsoft Excel
 
-# 
+---
 
-# \---
+## Dataset
 
-# 
+### Historical global shark attack records containing information on victims, countries, shark species, injuries, activities, and attack outcomes.
 
-# \# Dataset
+---
 
-# 
+## Data Cleaning
 
-# Historical global shark attack records containing information on victims, countries, shark species, injuries, activities, and attack outcomes.
+- Removed duplicates
 
-# 
+- Handled missing values
 
-# \---
+- Standardized text fields
 
-# 
+- Created age groups
 
-# \# Data Cleaning
+- Created species categories
 
-# 
+- Corrected data types
 
-# \- Removed duplicates
-
-# \- Handled missing values
-
-# \- Standardized text fields
-
-# \- Created age groups
-
-# \- Created species categories
-
-# \- Corrected data types
-
-# 
-
-# \---
+---
 
 # 
 
