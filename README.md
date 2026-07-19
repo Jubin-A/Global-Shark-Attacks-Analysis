@@ -109,7 +109,7 @@ The interactive Power BI dashboard provides insights into global shark attack tr
 Global-Shark-Attacks-Analysis/
 │
 ├── Dashboard/
-│   └── Amanda Jubin-Fofie_Shark Attacks.pbix
+│   └── Dashboard/Amanda Jubin-Fofie_ Shark Attacks.pbix
 │
 ├── Data/
 │   └── Data/Shark attacks - attacks.csv
