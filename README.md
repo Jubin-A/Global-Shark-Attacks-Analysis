@@ -49,7 +49,7 @@
 
 ## Data Model
 
-####Star Schema
+#### Star Schema
 
 - Fact Shark Attack
 - DIM Victim
@@ -57,73 +57,37 @@
 
 ---
 
-# 
+## Dashboard KPIs
 
-# \# Dashboard KPIs
+- Total Shark Attacks
+- Fatality Rate
+- Average Victim Age
+- Countries Represented
 
-# 
+---
 
-# \- Total Shark Attacks
+## Dashboard Preview
 
-# \- Fatality Rate
+![Images](Images/Shark-Attack-Dashboard.jpeg)
 
-# \- Average Victim Age
+## Data Model
 
-# \- Countries Represented
+![Images](Images/Data-Model-shark-attack.jpeg)
 
-# 
+---
 
-# \---
+## Key Insights
 
-# 
+- Australia, the United States, and South Africa recorded the highest number of attacks.
+- Most attacks were non fatal.
+- Adults experienced the highest number of attacks.
+- Great White Sharks appeared most frequently in recorded incidents.
 
-# \# Dashboard Preview
+---
 
-# 
+## Repository Structure
 
-# \## Dashboard
-
-# 
-
-# !\[Dashboard](Images/dashboard.png)
-
-# 
-
-# \## Data Model
-
-# 
-
-# !\[Data Model](Images/model.png)
-
-# 
-
-# \---
-
-# 
-
-# \# Key Insights
-
-# 
-
-# \- Australia, the United States, and South Africa recorded the highest number of attacks.
-
-# \- Most attacks were non fatal.
-
-# \- Adults experienced the highest number of attacks.
-
-# \- Great White Sharks appeared most frequently in recorded incidents.
-
-# 
-
-# \---
-
-# 
-
-# \# Repository Structure
-
-# 
-
-# ```
+```
 
 # Global-Shark-Attack-Analysis
 
@@ -141,39 +105,19 @@
 
 # └── README.md
 
-# ```
+ ```
+---
 
-# 
+## Author
 
-# \---
+## **Amanda Jubin-Fofie**
 
-# 
+## Registered Clinical Dietitian| Health Data Analytics
 
-# \# Author
-
-# 
-
-# \*\*Amanda Jubin-Fofie\*\*
-
-# 
-
-# Clinical Dietitian transitioning into Health Data Analytics
-
-# 
-
-# \*\*Skills\*\*
-
-# 
-
-# \- Power BI
-
-# \- SQL
-
-# \- Excel
-
-# \- Python (Learning)
-
-# 
+- Power BI
+- SQL
+- Excel
+- Python (Learning)
 
 # GitHub: https://github.com/Jubin-A
 
