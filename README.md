@@ -124,7 +124,7 @@ Global-Shark-Attacks-Analysis/
 └── README.md
 ```
 
-## Author
+## Author 
 
 **Amanda Jubin-Fofie**
 
