@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-#### This project explores global shark attack records to identify attack trends, affected age groups, high risk countries, and shark species responsible for attacks.
+#### This project explores global shark attack records from 1900 t0 2017, to identify attack trends, affected age groups, high risk countries, and shark species responsible for attacks.
 
 ---
 
@@ -63,6 +63,8 @@
 - Fatality Rate
 - Average Victim Age
 - Countries Represented
+- Most Fatal Species
+- Most Attacked Country
 
 ---
 
@@ -78,7 +80,7 @@
 
 ## Key Insights
 
-- Australia, the United States, and South Africa recorded the highest number of attacks.
+- The United States, Australia and South Africa recorded the highest number of attacks.
 - Most attacks were non fatal.
 - Adults experienced the highest number of attacks.
 - Great White Sharks appeared most frequently in recorded incidents.
@@ -119,5 +121,5 @@
 - Excel
 - Python (Learning)
 
-# GitHub: https://github.com/Jubin-A
+### GitHub: https://github.com/Jubin-A
 
