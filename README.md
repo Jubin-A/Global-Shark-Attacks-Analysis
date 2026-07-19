@@ -114,12 +114,9 @@
 
 ### **Amanda Jubin-Fofie**
 
-### Registered Clinical Dietitian| Health Data Analytics
+### Registered Clinical Dietitian | Aspiring Healthcare Data Analyst
 
-- Power BI
-- SQL
-- Excel
-- Python (Learning)
+- Power BI - SQL - Excel - Python (Learning)
 
 ### GitHub: https://github.com/Jubin-A
 
