@@ -126,13 +126,10 @@ Global-Shark-Attacks-Analysis/
 
 ## Author
 
-### **Amanda Jubin-Fofie**
+**Amanda Jubin-Fofie**
 
-### Registered Clinical Dietitian | Aspiring Healthcare Data Analyst
+Registered Clinical Dietitian | Aspiring Healthcare Data Analyst
 
-- Power BI
-- SQL
-- Excel
-- Python (Learning)
+Power BI • SQL • Excel • Data Analytics
 
 ### GitHub: https://github.com/Jubin-A
