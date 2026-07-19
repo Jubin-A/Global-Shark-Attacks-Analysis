@@ -112,9 +112,9 @@
 
 ## Author
 
-## **Amanda Jubin-Fofie**
+### **Amanda Jubin-Fofie**
 
-## Registered Clinical Dietitian| Health Data Analytics
+### Registered Clinical Dietitian| Health Data Analytics
 
 - Power BI
 - SQL
