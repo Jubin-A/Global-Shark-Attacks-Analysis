@@ -1,6 +1,6 @@
 # 🦈 Global Shark Attack Analysis
 
-# ![Images](Images/Shark-Attack-Dashboard.jpeg)
+ ![Images](Images/Shark-Attack-Dashboard.jpeg)
 
 ---
 
@@ -15,6 +15,17 @@
 #### Understanding historical shark attack patterns can support public awareness, improve beach safety measures, and identify locations with higher attack risks.
 
 ---
+
+## Objectives
+
+- Analyze global shark attack trends over time.
+- Identify countries with the highest number of shark attacks.
+- Examine shark attacks by age group.
+- Analyze fatal and non fatal shark attacks.
+- Identify the most common shark species involved.
+- Explore attack patterns by location type.
+- Analyze attacks by time of day.
+- Develop an interactive Power BI dashboard for data exploration.
 
 ## Tools Used
 
@@ -49,13 +60,15 @@
 
 ## Data Model
 
-#### Star Schema
+A star schema was created to improve performance and simplify analysis.
 
-- Fact Shark Attack
-- DIM Victim
-- DIM Injury
+![Images](Images/Data-Model-shark-attack.jpeg)
 
 ---
+
+## Dashboard
+
+The interactive Power BI dashboard provides insights into global shark attack trends, victim demographics, shark species, fatality patterns, and geographic distribution to support data driven decision making and public safety awareness.
 
 ## Dashboard KPIs
 
@@ -66,15 +79,7 @@
 - Most Fatal Species
 - Most Attacked Country
 
----
-
-## Dashboard Preview
-
-![Images](Images/Shark-Attack-Dashboard.jpeg)
-
-## Data Model
-
-![Images](Images/Data-Model-shark-attack.jpeg)
+ ![Images](Images/Shark-Attack-Dashboard.jpeg)
 
 ---
 
@@ -87,28 +92,37 @@
 
 ---
 
+## Recommendations
+
+- Increase public safety awareness in high risk coastal areas.
+- Promote safe swimming and surfing practices, particularly during afternoon hours.
+- Strengthen shark monitoring and warning systems in high incident regions.
+- Develop targeted safety campaigns for high risk age groups.
+- Support emergency response training for common shark attack injuries.
+- Maintain standardized data collection to improve future monitoring and analysis.
+
+---
+
 ## Repository Structure
 
 ```
-
-# Global-Shark-Attack-Analysis
-
-# │
-
-# ├── Dashboard
-
-# ├── Data
-
-# ├── DAX
-
-# ├── Images
-
-# ├── Report
-
-# └── README.md
-
- ```
----
+Global-Shark-Attacks-Analysis/
+│
+├── Dashboard/
+│   └── Amanda Jubin-Fofie_Shark Attacks.pbix
+│
+├── Data/
+│   └── Data/Shark attacks - attacks.csv
+│
+├── Images/
+│   ├── ![Images](Images/Shark-Attack-Dashboard.jpeg)
+│   ├── ![Images](Images/Data-Model-shark-attack.jpeg)
+│
+├── Report/
+│   └── Report/Amanda-Jubin-Fofie_Shark-Attack-Analysis.pdf
+│
+└── README.md
+```
 
 ## Author
 
@@ -122,4 +136,3 @@
 - Python (Learning)
 
 ### GitHub: https://github.com/Jubin-A
-
